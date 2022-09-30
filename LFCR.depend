@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1619969236 source:c:\users\mahmo\desktop\assignment\lfcr\main.cpp
+	<iostream>
+	"Encryption.h"
+
+1619969204 source:c:\users\mahmo\desktop\assignment\lfcr\src\encryption.cpp
+	"Encryption.h"
+	<cstring>
+	<iostream>
+	<bits/stdc++.h>
+
+1619968438 c:\users\mahmo\desktop\assignment\lfcr\include\encryption.h
+
